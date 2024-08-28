@@ -1,4 +1,4 @@
-
+//all java codes//
 
 /* REVERSE AN ARRAY
 package javafolder;
